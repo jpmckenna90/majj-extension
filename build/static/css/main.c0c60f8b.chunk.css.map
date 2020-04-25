@@ -1,0 +1,1 @@
+{"version":3,"sources":["Navbar.css","DigButton.css"],"names":[],"mappings":"AAAA,QACE,wBACF,CAEA,YACE,UACF,CCNA,SACE,iCAAkC,CAClC,UACF","file":"main.c0c60f8b.chunk.css","sourcesContent":["#navbar{\r\n  background-color: #056766;\r\n}\r\n\r\n#navbarText{\r\n  color:white;\r\n}\r\n",".mod-btn{\r\n  background-color: purple!important;\r\n  color:yellow;\r\n}\r\n\r\n"]}
